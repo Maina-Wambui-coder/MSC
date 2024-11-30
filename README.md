@@ -33,7 +33,7 @@ This stems from the demand for personalized music experiences and effective data
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/otieno-calvin/music-streaming-system.git
+git clone https://github.com/Wambui-Maina-coder/MSC.git
 
 # Navigate to the project directory
 cd music-streaming-system
@@ -245,11 +245,11 @@ VALUES ('Song Title', 1, 2, 'Genre', '3:45');
 
 ## Contact
 
-**Author**: [Otieno Calvin(Full -Stack) DS](https://github.com/Otieno-Calvin)
+**Author**: [Wambui Jon (Backend-Developer) ](https://github.com/Wambui-Maina-coder)
 
 ## Acknowledgments
     
--   Another Project for inspiration : [HATUCHELEWI MODEL](https://github.com/Otieno-Calvin/HATUCHELEWI-model/blob/master/LATE%20DELIVERY%20ANALYSIS.pdf)
+-   Another Project for inspiration : 
     
 
 ## References
